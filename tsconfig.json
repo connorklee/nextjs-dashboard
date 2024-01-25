@@ -34,7 +34,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "app/ui/lib/placeholder-data.js",
-    "scripts/seed.js"
+    "scripts/seed.js",
+    "app/dashboard/invoices/[id]/edit/page.js"
   ],
   "exclude": [
     "node_modules"
